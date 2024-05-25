@@ -237,7 +237,6 @@ section:last-child {
     line-height: 15pt;
 }
 
-
 button{
     background-color: black;
     width:245px;
@@ -266,7 +265,6 @@ button:hover {
         display: none !important;
     }
 }
-
 
 .no-print{
     display: flex;
